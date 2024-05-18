@@ -1,3 +1,7 @@
+# Presentation:
+
+https://docs.google.com/presentation/d/1jP274oIAH_XM_v_7GJ60ciNTlyDagmosH4KR7RcL-yU/edit#slide=id.g2dda5f6f1b3_2_926
+
 # ReadMe for Cohort Analysis of Cash Requests and Fees
 
 ## Overview
